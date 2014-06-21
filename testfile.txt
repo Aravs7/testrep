@@ -1,1 +1,2 @@
 This is a test file : line 1
+adding line 2 from rep 2
